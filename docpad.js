@@ -7,27 +7,22 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
+      name: "Arduino Day",
       description: "Conference description",
-      date: "November 15",
+      date: "28 de Março",
       // If your event is free, just comment this line
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      //price: "$100",
+      venue: "ECT - UFRN",
+      address: "Escola de Ciência e Tecnologia - UFRN",
+      city: "Natal",
+      state: "Rio Grande do Norte"
     },
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Register now!",
+        text: "Escreva-se",
         link: "http://eventick.com.br"
-    },
-
-    // "Fork me on GitHub", if you don't want this, just remove the forkButton property
-    forkButton: {
-        repository: "https://github.com/braziljs/conf-boilerplate"
     },
 
     // Site info
@@ -52,13 +47,13 @@ module.exports = {
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
-      location: "Location",
-      speakers: "Speakers",
-      schedule: "Schedule",
-      sponsors: "Sponsors",
-      partners: "Partners",
-      contact: "Contact"
+      about: "Sobre",
+      location: "Local",
+      speakers: "Palestrantes",
+      schedule: "Horário",
+      sponsors: "Patrocinadores",
+      partners: "Parceiros",
+      contact: "Contato"
     },
 
     // The entire schedule
@@ -98,7 +93,7 @@ module.exports = {
         }
       },
       {
-        name: "Lunch",
+        name: "Almoço",
         time: "12h00"
       },
       {
@@ -179,7 +174,7 @@ module.exports = {
     // List of Partners
     partners: [
       {
-        name: "BrazilJS",
+        name: "UFRN",
         logo: "themes/yellow-swan/img/partner.png",
         url: "http://braziljs.org"
       }
