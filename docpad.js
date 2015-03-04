@@ -281,6 +281,11 @@ module.exports = {
         name: "brindern",
         logo: "themes/yellow-swan/img/brindern.png",
         url: "http://www.brindern.com"
+      },
+      {
+      	name: "Miranda",
+      	logo: "themes/yellow-swan/img/miranda.png",
+      	url: "http://www.miranda.com.br"
       }
 
     ],
