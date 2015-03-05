@@ -38,8 +38,8 @@ module.exports = {
     sections: [
       'about',
       'location',
-      'speakers',
       'schedule',
+      'speakers',
       'sponsors',
       'partners'
       // 'contact'
@@ -49,8 +49,8 @@ module.exports = {
     labels: {
       about: "Sobre",
       location: "Local",
+      schedule: "Cronograma",
       speakers: "Palestrantes",
-      schedule: "Horário",
       sponsors: "Patrocinadores",
       partners: "Parceiros",
       contact: "Contato"
@@ -59,19 +59,22 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
+      	local: "Anfiteatro D",
         name: "Check-in / Abertura",
         time: "8h00 às 8h50"
       },
       {
-        name: "Profº Ivanês Oliveira Alexandrino",
+        name: "Profº Ivanês Oliveira Alexandrino e Profº Dr. Antônio Pereira Júnior",
         photo: "themes/yellow-swan/img/ivanesoliveira.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
         company: "Anfiteatro A",
 
         presentation: {
-          title: "Palestra 1",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "9h00 às 9h50"
+   		  name: "Mesa-redonda",	
+          local: "Anfiteatro D",
+          palestrante: "Profº Ivanês Oliveira Alexandrino e Profº Dr. Antônio Pereira Júnior",
+          time: "9h00 às 9h50",
+          description: "Descrição"
         }
       },
       {
