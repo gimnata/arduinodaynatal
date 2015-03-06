@@ -22,7 +22,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "Inscreva-se",
-        link: "http://eventick.com.br"
+        link: "https://gim.typeform.com/to/MoOBPM"
     },
 
     // Site info
@@ -73,7 +73,7 @@ module.exports = {
       {
         name: "Profº Ivanês Oliveira Alexandrino e Profº Dr. Antônio Pereira Júnior",
         photo: "themes/yellow-swan/img/ivanesoliveira.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+        bio: "O Profº de física Ivanês Oliveira Alexandrino leciona na Escola Estadual Tristão de Barros, em Currais Novos. Ele foi orientador do projeto “Equilíbrio: para uma inclusão sustentável e um meio ambiente melhor” que foi o vencedor de um prêmio internacional da Samsung.\nO Profº Dr. Antônio Pereira Júnior possui Mestrado e Doutorado em Ciências Biológicas (Biofísica) pela Universidade Federal do Rio de Janeiro e Pós-Doutorado no Duke University Medical Center. Atualmente é professor adjunto da Universidade Federal do Rio Grande do Norte e coordenador do Programa Escolas Acadêmicas.",
         company: "Don't worry, be happy.",
 
         presentation: {
@@ -85,7 +85,7 @@ module.exports = {
         }
       },
       {
-        name: "Profº Ivanilson França Vieira Júnior",
+        name: "LAR",
         photo: "themes/yellow-swan/img/avatar.jpeg",
         bio: "Biografia",
         company: "Don't worry, be happy.",
@@ -106,15 +106,15 @@ module.exports = {
       	description: "Básico (A1)"
       },
       {
-        name: "Profº Ivanilson França Vieira Júnior e LAR",
+        name: "Profº Me. Ivanilson França Vieira Júnior",
         photo: "themes/yellow-swan/img/avatar.jpeg",
-        bio: "Biografia",
+        bio: "O Profº Me. Ivanilson França Vieira Júnior possui Graduação em Tecnologia em Desenvolvimento de Software pelo Centro Federal de Educação Tecnológica do Rio Grande do Norte, possui mestrado em Sistemas de Computação pela Universidade Federal do Rio Grande do Norte. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Informação, atuando principalmente nos seguintes temas: Multimídia, Sistemas Distribuídos e Redes de Computadores.",
         company: "Don't worry, be happy.",
 
         presentation: {
    		  name: "Mesa-redonda",	
           local: "Anfiteatro F",
-          palestrante: "Profº Ivanilson França Vieira Júnior e LAR",
+          palestrante: "Profº Me. Ivanilson França Vieira Júnior e LAR",
           time: "9h40 às 10h15",
           description: "Descrição"
         }
@@ -122,7 +122,7 @@ module.exports = {
       {
         name: "Tiago Tobias Freitas",
         photo: "themes/yellow-swan/img/avatar.jpeg",
-        bio: "Biografia",
+        bio: "Tiago Tobias Freitas é técnico em eletrônica, especialista em automação da manufatura. Vem atuando na área de eletroeletrônica desde 2003, onde desenvolve projetos voltados para automação industrial. Atua na área acadêmica ministrando aulas em cursos técnicos e profissionalizante. Graduando do curso de bacharelado em Ciências e Tecnologia da Universidade Federal do Rio Grande do Norte - UFRN, vem continuamente desenvolvendo projetos de sistema embarcados utilizando microcontroladores, na concepção de novos sistemas embarcados, além de atuar nas áreas de robótica industrial construindo robôs autônomos.",
         company: "Don't worry, be happy.",
 
         presentation: {
@@ -136,7 +136,7 @@ module.exports = {
       {
         name: "Profº Dr. Aquiles Medeiros Filgueira Burlamaqui",
         photo: "themes/yellow-swan/img/aquilesmedeiros.jpg",
-        bio: "Biografia",
+        bio: "O Profº Dr.  Aquiles Filgueira Burlamaqui possui graduação em Ciências da Computação, mestrado em Sistemas e Computação e doutorado em Engenharia Elétrica pela Universidade Federal do Rio Grande do Norte. É pesquisador do Laboratório Natalnet-DCA , atuando principalmente nos seguintes temas: Ambientes Virtuais Colaborativos Massivos, TV Digital Interativa, Sistemas Web, Aplicações de Robótica, Realidade Virtual e Engenharia de Software.",
         company: "Don't worry, be happy.",
 
         presentation: {
@@ -156,7 +156,7 @@ module.exports = {
       {
         name: "Marcel da Câmara Ribeiro Dantas",
         photo: "themes/yellow-swan/img/marcelribeiro.jpg",
-        bio: "Biografia",
+        bio: "Marcel é graduando em Engenharia de Computação e Automação Industrial na Universidade Federal do Rio Grande do Norte (UFRN), pesquisador no Laboratório de Inovação Tecnológica em Saúde (LAIS) no Hospital Universitário Onofre Lopes (HUOL), ativista de Software Livre com expertise em Telerradiologia, Telemedicina e Automação Hospitalar.",
         company: "Don't worry, be happy.",
 
         presentation: {
@@ -198,7 +198,7 @@ module.exports = {
       {
         name: "Profº Dr. João Moreno Vilas Boas de Souza Silva",
         photo: "themes/yellow-swan/img/joaomoreno.png",
-        bio: "Professor efetivo do IFRN com interesse nas áreas de Eletrônica Digital e Microcontroladores.",
+        bio: "O Profº Dr. João Moreno Vilas Boas de Souza Silva possui graduação em Tecnologia em Automação Industrial pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, Especialização, Mestrado e Doutorado em Engenharia Mecânica pela Universidade Federal do Rio Grande do Norte. Possui experiência profissional nas áreas de automação, desenvolvimento de software e refino de petróleo. É professor efetivo do IFRN com interesse nas áreas de Eletrônica Digital e Microcontroladores.",
         company: "Don't worry, be happy.",
 
         presentation: {
@@ -211,8 +211,8 @@ module.exports = {
       },
       {
         name: "Julio Cesar Paulino de Melo (LAR)",
-        photo: "themes/yellow-swan/img/joaomoreno.png",
-        bio: "Biografia",
+        photo: "themes/yellow-swan/img/avatar.png",
+        bio: "Julio Cesar Paulino de Melo é graduado em engenharia de computação, com ênfase em automação na Universidade Federal do Rio Grande do Norte. Possui mestrado em Engenharia Elétrica e Computação pela UFRN. Tem experiências na área de sistema de informação, ambientes vituais interativos, TV digital, Aplicações interativas para TV digital, sistemas embarcados e sistemas dinamico e estaticos em FPGA.",
         company: "Don't worry, be happy.",
 
         presentation: {
@@ -240,7 +240,7 @@ module.exports = {
       {
         name: "Profº Dr. Leonardo Augusto Casillo",
         photo: "themes/yellow-swan/img/leonardoaugusto.jpg",
-        bio: "Biografia",
+        bio: "O Profº Dr. Leonardo Augusto Casillo possui graduação em Engenharia da Computação pela Universidade Potiguar, mestrado em Sistemas e Computação  e doutorado em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte. É professor da Universidade Federal Rural do Semi-Árido desde 2009, lecionando disciplinas de Circuitos Digitais, Microprocessadores e Microcontroladores. Tem experiência na área de Ciência da Computação, com ênfase em hardware, atuando principalmente nos seguintes temas: processadores acadêmicos, processadores RISP e arquiteturas microprogramadas.",
         company: "Don't worry, be happy.",
 
         presentation: {
