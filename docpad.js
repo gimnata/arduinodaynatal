@@ -28,8 +28,8 @@ module.exports = {
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://braziljs.github.io/conf-boilerplate/",
-      googleanalytics: "UA-33656081-1"
+      url: "http://gimnatal.github.io/arduinodaynatal/",
+      googleanalytics: "UA-56195918-2"
     },
 
     // Active sections on the website
@@ -85,25 +85,11 @@ module.exports = {
         }
       },
       {
-        name: "LAR",
-        photo: "themes/yellow-swan/img/avatar.jpeg",
-        bio: "Biografia",
-        company: "Don't worry, be happy.",
-
-        presentation: {
-   		  name: "Palestra",	
-          local: "Anfiteatro F",
-          palestrante: "Profº Ivanilson França Vieira Júnior",
-          time: "9h00 às 9h35",
-          description: "Descrição"
-        }
-      },
-      {
         name: "Oficina A",
       	local: "Sala 1",
       	photo: "themes/yellow-swan/img/arduino.jpg",
       	time: "9h00 às 11h00",
-      	description: "Básico (A1)"
+      	description: "Básica A"
       },
       {
         name: "Profº Me. Ivanilson França Vieira Júnior",
@@ -172,14 +158,14 @@ module.exports = {
       	local: "Sala 1",
       	photo: "themes/yellow-swan/img/arduino.jpg",
       	time: "13h00 às 15h00",
-      	description: "Básico (A2)"
+      	description: "Básica B"
       },
       {
         name: "Oficina C",
       	local: "Sala 1",
       	photo: "themes/yellow-swan/img/arduino.jpg",
       	time: "13h00 às 15h00",
-      	description: "Intermediário"
+      	description: "Intermediária"
       },
       {
         name: "Potilive e Pyladies",
@@ -244,7 +230,7 @@ module.exports = {
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Mesa-redonda",	
+   		  name: "Palestra",	
           local: "Anfiteatro D",
           palestrante: "Profº Dr. Leonardo Augusto Casillo",
           time: "15h15 às 16h00",
@@ -253,6 +239,7 @@ module.exports = {
       },
       {
         name: "Encerramento",
+        local: "Anfiteatro D",
         time: "16h00 às 17h00"
       },
     ],
