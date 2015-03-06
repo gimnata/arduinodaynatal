@@ -108,7 +108,7 @@ module.exports = {
       {
         name: "Profº Me. Ivanilson França Vieira Júnior",
         photo: "themes/yellow-swan/img/avatar.jpeg",
-        bio: "O Profº Dr. Leonardo Augusto Casillo possui graduação em Engenharia da Computação pela Universidade Potiguar, mestrado em Sistemas e Computação  e doutorado em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte. É professor da Universidade Federal Rural do Semi-Árido desde 2009, lecionando disciplinas de Circuitos Digitais, Microprocessadores e Microcontroladores. Tem experiência na área de Ciência da Computação, com ênfase em hardware, atuando principalmente nos seguintes temas: processadores acadêmicos, processadores RISP e arquiteturas microprogramadas.",
+        bio: "O Profº Me. Ivanilson França Vieira Júnior possui Graduação em Tecnologia em Desenvolvimento de Software pelo Centro Federal de Educação Tecnológica do Rio Grande do Norte, possui mestrado em Sistemas de Computação pela Universidade Federal do Rio Grande do Norte. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Informação, atuando principalmente nos seguintes temas: Multimídia, Sistemas Distribuídos e Redes de Computadores.",
         company: "Don't worry, be happy.",
 
         presentation: {
@@ -198,7 +198,7 @@ module.exports = {
       {
         name: "Profº Dr. João Moreno Vilas Boas de Souza Silva",
         photo: "themes/yellow-swan/img/joaomoreno.png",
-        bio: "Professor efetivo do IFRN com interesse nas áreas de Eletrônica Digital e Microcontroladores.",
+        bio: "O Profº Dr. João Moreno Vilas Boas de Souza Silva possui graduação em Tecnologia em Automação Industrial pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, Especialização, Mestrado e Doutorado em Engenharia Mecânica pela Universidade Federal do Rio Grande do Norte. Possui experiência profissional nas áreas de automação, desenvolvimento de software e refino de petróleo. É professor efetivo do IFRN com interesse nas áreas de Eletrônica Digital e Microcontroladores.",
         company: "Don't worry, be happy.",
 
         presentation: {
