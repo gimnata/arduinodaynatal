@@ -22,7 +22,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "Inscreva-se",
-        link: "https://gim.typeform.com/to/MoOBPM"
+        link: /*"https://gim.typeform.com/to/MoOBPM"*/"#"
     },
 
     // Site info
@@ -37,6 +37,7 @@ module.exports = {
     // you can also change order here and it will reflect on page
     sections: [
       'about',
+      'information',
       'location',
       'schedule',
       'speakers',
@@ -48,6 +49,7 @@ module.exports = {
     // Labels which you can translate to other languages
     labels: {
       about: "Sobre",
+      information: "Informações",
       location: "Local",
       schedule: "Cronograma",
       speakers: "Palestrantes",
@@ -71,17 +73,31 @@ module.exports = {
     	//}
       },
       {
-        name: "Profº Ivanês Oliveira Alexandrino e Profº Dr. Antônio Pereira Júnior",
-        photo: "themes/yellow-swan/img/ivanesoliveira.jpg",
-        bio: "O Profº de física Ivanês Oliveira Alexandrino leciona na Escola Estadual Tristão de Barros, em Currais Novos. Ele foi orientador do projeto “Equilíbrio: para uma inclusão sustentável e um meio ambiente melhor” que foi o vencedor de um prêmio internacional da Samsung.\nO Profº Dr. Antônio Pereira Júnior possui Mestrado e Doutorado em Ciências Biológicas (Biofísica) pela Universidade Federal do Rio de Janeiro e Pós-Doutorado no Duke University Medical Center. Atualmente é professor adjunto da Universidade Federal do Rio Grande do Norte e coordenador do Programa Escolas Acadêmicas.",
+        name: "Profº Me. Ivanilson França Vieira Júnior",
+        photo: "themes/yellow-swan/img/Ivanilson.jpg",
+        bio: "O Profº Me. Ivanilson França Vieira Júnior possui Graduação em Tecnologia em Desenvolvimento de Software pelo Centro Federal de Educação Tecnológica do Rio Grande do Norte, possui mestrado em Sistemas de Computação pela Universidade Federal do Rio Grande do Norte. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Informação, atuando principalmente nos seguintes temas: Multimídia, Sistemas Distribuídos e Redes de Computadores.",
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Mesa-redonda",	
+        name: "Palestra", 
           local: "Anfiteatro D",
           palestrante: "Profº Ivanês Oliveira Alexandrino e Profº Dr. Antônio Pereira Júnior",
           time: "9h00 às 9h50",
           description: "Descrição"
+        }
+      },
+      {
+        name: "Profº Ivanês Oliveira Alexandrino e Profº Dr. Antônio Pereira Júnior",
+        photo: "themes/yellow-swan/img/ivaneseantonio.png",
+        bio: "O Profº de física Ivanês Oliveira Alexandrino leciona na Escola Estadual Tristão de Barros, em Currais Novos. Ele foi orientador do projeto “Equilíbrio: para uma inclusão sustentável e um meio ambiente melhor” que foi o vencedor de um prêmio internacional da Samsung. O Profº Dr. Antônio Pereira Júnior possui Mestrado e Doutorado em Ciências Biológicas (Biofísica) pela Universidade Federal do Rio de Janeiro e Pós-Doutorado no Duke University Medical Center. Atualmente é professor adjunto da Universidade Federal do Rio Grande do Norte e coordenador do Programa Escolas Acadêmicas.",
+        company: "Don't worry, be happy.",
+
+        presentation: {
+   		  name: "Mesa-redonda: Agentes da transformação",	
+          local: "Anfiteatro D",
+          palestrante: "Profº Ivanês Oliveira Alexandrino e Profº Dr. Antônio Pereira Júnior",
+          time: "9h00 às 9h50",
+          description: "O professor Ivanês orientador do projeto vencedor do prêmio Samsung e o professor Antônio Pereira coordenador do Programa Escolas Acadêmicas participam de uma discussão sobre a influência da róbotica no ensino fundamental e médio, de como o perfil maker possibilita grandes mudanças na realidade da nossa sociedade."
         }
       },
       {
@@ -92,31 +108,31 @@ module.exports = {
       	description: "Básica A"
       },
       {
-        name: "Profº Me. Ivanilson França Vieira Júnior",
-        photo: "themes/yellow-swan/img/avatar.jpeg",
-        bio: "O Profº Me. Ivanilson França Vieira Júnior possui Graduação em Tecnologia em Desenvolvimento de Software pelo Centro Federal de Educação Tecnológica do Rio Grande do Norte, possui mestrado em Sistemas de Computação pela Universidade Federal do Rio Grande do Norte. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Informação, atuando principalmente nos seguintes temas: Multimídia, Sistemas Distribuídos e Redes de Computadores.",
+        name: "Profº Me. Ivanilson França Vieira Júnior, Lucas Pereira Wanderley Oliveira e Arthur Andrade Bezerra",
+        photo: "themes/yellow-swan/img/Ivanilson.jpg",
+        bio: "Lucas Pereira Wanderley Oliveira é graduando em Ciências e Tecnologia, trabalha no Laboratório de Automação e Robótica no projeto de um veículo autônomo não tripulado, na área de controle. Cinco anos de experiência com Arduino e dois anos de Raspberry. Muito interesse em automação em geral e quadricópteros. Arthur Andrade, Trabalha no Laboratório de Automação e Robótica da UFRN, atua no projeto da Plataforma Imersiva Multidimensional, mini hexapod project (anterior) com conhecimento em Microcontroladores, programação, eletrônica, gambiarras e um pouco te antenas. Tem interesse na area de Telecomunicações",
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Mesa-redonda",	
+   		  name: "Mesa-redonda: Meu primeiro Drone",	
           local: "Anfiteatro F",
-          palestrante: "Profº Me. Ivanilson França Vieira Júnior e LAR",
+          palestrante: "Profº Me. Ivanilson França Vieira Júnior, Lucas Pereira Wanderley Oliveira e Arthur Andrade Bezerra",
           time: "9h40 às 10h15",
-          description: "Descrição"
+          description: "Um bate-papo com hobbistas do aeremodelismo e quadricopteros sobre o processo de montagem de um VANT. O que é um VANT? Onde compra peças? Quais etapas seguir?"
         }
       },
       {
         name: "Tiago Tobias Freitas",
-        photo: "themes/yellow-swan/img/avatar.jpeg",
-        bio: "Tiago Tobias Freitas é técnico em eletrônica, especialista em automação da manufatura. Vem atuando na área de eletroeletrônica desde 2003, onde desenvolve projetos voltados para automação industrial. Atua na área acadêmica ministrando aulas em cursos técnicos e profissionalizante. Graduando do curso de bacharelado em Ciências e Tecnologia da Universidade Federal do Rio Grande do Norte - UFRN, vem continuamente desenvolvendo projetos de sistema embarcados utilizando microcontroladores, na concepção de novos sistemas embarcados, além de atuar nas áreas de robótica industrial construindo robôs autônomos.",
+        photo: "themes/yellow-swan/img/TiagoTobias.jpg",
+        bio: "Tiago Tobias Freitas é técnico em eletrônica.  Vem cursando Bacharelado em C&T e atuando na área de microoeletrônica desde 2003, onde desenvolve projetos voltados para automação industrial. Atuou na área acadêmica ministrando aulas em cursos técnicos e profissionalizante no SENAI entre 2006 e 2012,  onde elaborou projetos premiados e publicados em revista especializada. Atualmente é sócio proprietário da LUNALTAS, empresa incubada no INOVA METRÓPOLE, que tem foco em desenvolvimento de produtos de software e hardware com caráter inovador. Membro do grupo de pesquisa em eficiência energética da Escola de Ciências e Tecnologia - UFRN, onde desenvolve sistemas embarcados prototipados na plataforma Arduino, com intuito de aumentar a eficiência energética de instalações elétricas prediais e industriais.",
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Palestra",	
+   		  name: "Projetando com Arduino - dos Drones à Domótica",	
           local: "Anfiteatro F",
           palestrante: "Tiago Tobias Freitas",
           time: "10h30 às 11h00",
-          description: "Descrição"
+          description: "Com grande conhecimento em eletrotecnica e em desenvolvimento de projetos com sistemas embarcados, Tiago fala um pouco sobre o shield  do ADE758 e sua biblioteca para Arduino, e mostra como qualquer um pode fazer seu próprio medidor de energia inteligente."
         }
       },
       {
@@ -126,11 +142,11 @@ module.exports = {
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Palestra",	
+   		  name: "Educação e robótica, tudo a ver - Parte II",	
           local: "Anfiteatro D",
           palestrante: "Profº Dr. Aquiles Medeiros Filgueira Burlamaqui",
           time: "10h45 às 11h25",
-          description: "Descrição"
+          description: "Um dos participantes do 1º Arduino Day Natal #GIM, o Professor Aquiles e seus alunos estão de volta!  Irão falar sobre a missão do projeto Um Robô por Aluno (URA) e de como transformar a educação do RN e do Brasil utilizando a robótica como carro-chefe desta jornada."
         }
       },
       {
@@ -146,11 +162,11 @@ module.exports = {
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Palestra",	
+   		  name: "Como o Arduino e o movimento de Software e Hardware livre mudaram a Engenharia Biomédica",	
           local: "Anfiteatro D",
           palestrante: "Marcel da Câmara Ribeiro Dantas",
           time: "13h00 às 13h30",
-          description: "Descrição"
+          description: "A influência do arduino na construção de equipamentos e sistemas que auxiliam a área da saúde."
         }
       },
       {
@@ -169,16 +185,16 @@ module.exports = {
       },
       {
         name: "Potilive e Pyladies",
-        photo: "themes/yellow-swan/img/pyladies.png",
-        bio: "Biografia",
+        photo: "themes/yellow-swan/img/pypoti.png",
+        bio: "Potilivre é um Grupo de Usuários de Software Livre atuante no estado do Rio Grande do Norte, fundado em 2013. Somos uma organização independente, composta por voluntários, para o apoio à filosofia e o uso do Software Livre. Sua missão é servir como principal ponto de integração entre as comunidades de Software Livre do nosso Estado, oferecendo uma estrutura simples e eficiente para o direcionamento e a organização dos esforços colaborativos. Pyladies é um grupo internacional, com foco em ajudar mais mulheres a tornarem-se participantes ativas e líderes de comunidades Python de código aberto. Sua missão é promover, educar e impulsionar a existência de uma comunidade Python diversificada através de sensibilização, educação, conferências, eventos e encontros sociais. Nosso objetivo não é segregar, mas sermos um meio de integrar as mulheres a programação.",
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Mesa-redonda",	
+   		  name: "Mesa-redonda: Eu faço programa e você?",	
           local: "Anfiteatro D",
           palestrante: "Potilive e Pyladies",
           time: "13h35 às 14h15",
-          description: "Descrição"
+          description: "Como dar o seu primeiro passo no mundo da programação e um pouco mais sobre o software livre."
         }
       },
       {
@@ -197,30 +213,30 @@ module.exports = {
       },
       {
         name: "Julio Cesar Paulino de Melo (LAR)",
-        photo: "themes/yellow-swan/img/avatar.png",
+        photo: "themes/yellow-swan/img/JulioCesar.jpg",
         bio: "Julio Cesar Paulino de Melo é graduado em engenharia de computação, com ênfase em automação na Universidade Federal do Rio Grande do Norte. Possui mestrado em Engenharia Elétrica e Computação pela UFRN. Tem experiências na área de sistema de informação, ambientes vituais interativos, TV digital, Aplicações interativas para TV digital, sistemas embarcados e sistemas dinamico e estaticos em FPGA.",
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Palestra",	
+   		  name: "Bem-vindo ao LAR  - Projetos acadêmicos baseados em Arduino.",	
           local: "Anfiteatro D",
           palestrante: "Julio Cesar Paulino de Melo (LAR)",
           time: "14h30 às 15h00",
-          description: "Descrição"
+          description: "O Laboratório de Automação e Robótica da Escola de Ciências e Tecnologia (ECT) desenvolve diversos projetos de??? O que vem sendo feito no lab da ECT. #vant #plataforma entre outros projetos."
         }
       },
       {
         name: "Tiago Hérique Silva de Almeida e Eugênio Pacelly Brandão Araújo",
-        photo: "themes/yellow-swan/img/avatar.png",
-        bio: "Biografia",
+        photo: "themes/yellow-swan/img/Eugenio.jpg",
+        bio: "Tiago Hérique Silva de Almeida é graduando em Ciências e Tecnologia com ênfase em Eng. Mecatrônica na UFRN, é o fundador do Grupo Interdisciplinar de Mecatrônica (GIM) da UFRN. Tem experiência na área de Robótica, Mecatrônica e Automação. Eugênio Pacelly Brandão Araújo é graduando em Ciências e Tecnologia e atualmente é voluntário no projeto Nvant e também é um dos projetista da plataforma de simulação de sistemas embarcados em um projeto da Universidade Federal do Rio Grande do Norte.",
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Mesa-redonda",	
+   		  name: "Mesa-redonda: A arte da gambiarra",	
           local: "Anfiteatro F",
           palestrante: "Tiago Hérique Silva de Almeida e Eugênio Pacelly Brandão Araújo",
           time: "14h30 às 15h00",
-          description: "Descrição"
+          description: "Ctrl+C e Ctrl+V  e um pouco de criatividade, como a prototipagem tem crescido e se tornado uma prática diária do LAR. Desde peças modeladas em 3D à cópias feitas em moldes de gesso."
         }
       },
       {
@@ -230,11 +246,11 @@ module.exports = {
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Palestra",	
+   		  name: "O arduino como um motivador acadêmico",	
           local: "Anfiteatro D",
           palestrante: "Profº Dr. Leonardo Augusto Casillo",
           time: "15h15 às 16h00",
-          description: "Descrição"
+          description: "Descobri o arduino! E agora? Os desafios acadêmicos de transformar uma ferramenta de prototipagem em uma ferramenta de motivação em um curso que possui software como essência, satisfazer as expectativas dos amantes de hardware e despertar os interesses dos não-simpatizantes. Um estudo de caso próprio vivido no curso de Ciência da Computação na UFERSA-Mossoró."
         }
       },
       {

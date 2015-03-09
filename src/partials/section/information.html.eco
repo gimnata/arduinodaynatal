@@ -1,0 +1,28 @@
+<h2 class="section-title"><%= @labels['information'] %></h2>
+<h4>Todas as atividades são restritas aos inscritos no evento, portanto só será permitida a entrada de quem estiver com a pulseira de identificação adquirida no check-in do evento.</h4>
+<br>
+<ul>
+	<li><strong>Oficinas:</strong></li>
+	<br>
+	<p>No dia do evento, três oficinas serão ministradas pelo GIM em retribuição àqueles que colaboraram com a compra de rifas vendidas pelos representantes do grupo na UFRN. A regra é simples: Na compra de uma rifa, o participante terá acesso a uma oficina, enquanto houver vagas disponíveis. Serão disponibilizadas 60 vagas, sendo que metade das vagas será preenchida por alunos que trouxerem seu próprio notebook.<p>
+
+	<p>Local das vendas: stand do GIM na entrada principal da Escola de Ciência e Tecnologia..</p>
+	<p>Horário de funcionamento: 10h às 16h</p>
+	<p>Valor da rifa: R$ 5.</p>
+
+	<p>Haverá dois tipos de oficina: 
+	<p><strong>Básica</strong>, na qual teremos desde uma breve introdução do que é a IDE do Arduino até a criação de mini projetos usando leds e sensores.</p>
+	<p><strong>Intermediária</strong>, que envolverá a aplicação da plataforma Processing, na qual a primeira metade do tempo da oficina será focado na programação e a outra metade na manipulação do arduino através de um aplicativo criado pelos participantes.</p>
+
+
+	<p><span><strong>Observações:</strong></span></p>
+	<p>1 - Se você possui um notebook com uma bateria que dure por muito tempo sem a necessidade de carga (algo em torno de três horas), a sua vaga na oficina terá mais facilidade de ser garantida, pois limitamos a capacidade da turma, principalmente, por questão de estrutura elétrica. É necessário, porém, que a sua inscrição seja feita antes do dia do evento.</p>
+	<p><span>2 - Mesmo que você não for participar da oficina, poderá comprar a rifa e concorrer ao kit para iniciante, consequentemente, ajudando o GIM nas despesas.</span></p>
+	<li><strong>Palestras:</strong></li>
+	<br>
+	<p>As palestras ocorrerão paralelamente nos anfiteatros D e F. É possível conferir no cronograma o local e horário de cada uma delas. Basta escolher quais são de seu maior interesse e aproveitar. Diversas áreas e temas, desde drones à sistemas de saúde, serão abordados nas nossas palestras, com o intuito de abordar aplicações do arduino. Entretanto, este ano abrimos espaço para tratar de outros temas relevantes, tais como software livre e,  também, para outros grupos regionais cujo propósito é compartilhar conhecimento, seja em desenvolvimento software ou hardware.</p>
+	<li><strong>Mesa-redonda:</strong></li>
+	<br>
+	<p>No evento acontecerão algumas mesas redondas com convidados de várias áreas. As mesas redondas seguirão o formato em que haverá um mediador e dois ou mais convidados para discutirem sobre o tema da mesa. Também será dado à platéia a oportunidade de fazer perguntas. Escolham a(s) mesa(s) que mais lhe interessam e participem!</p>
+</ul>
+
