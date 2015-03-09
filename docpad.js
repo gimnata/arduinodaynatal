@@ -22,7 +22,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "Inscreva-se",
-        link: /*"https://gim.typeform.com/to/MoOBPM"*/"#"
+        link: "https://gim.typeform.com/to/MoOBPM"
     },
 
     // Site info
@@ -80,9 +80,9 @@ module.exports = {
 
         presentation: {
         name: "Palestra", 
-          local: "Anfiteatro D",
-          palestrante: "Profº Ivanês Oliveira Alexandrino e Profº Dr. Antônio Pereira Júnior",
-          time: "9h00 às 9h50",
+          local: "Anfiteatro F",
+          palestrante: "Profº Me. Ivanilson França Vieira Júnior",
+          time: "9h00 às 9h35",
           description: "Descrição"
         }
       },
