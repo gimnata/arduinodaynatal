@@ -88,7 +88,7 @@ module.exports = {
       },
       {
         name: "Profº Ivanês Oliveira Alexandrino e Profº Dr. Antônio Pereira Júnior",
-        photo: "themes/yellow-swan/img/ivaneseantonio.png",
+        photo: "themes/yellow-swan/img/arduino.jpg",
         bio: "O Profº de física Ivanês Oliveira Alexandrino leciona na Escola Estadual Tristão de Barros, em Currais Novos. Ele foi orientador do projeto “Equilíbrio: para uma inclusão sustentável e um meio ambiente melhor” que foi o vencedor de um prêmio internacional da Samsung. O Profº Dr. Antônio Pereira Júnior possui Mestrado e Doutorado em Ciências Biológicas (Biofísica) pela Universidade Federal do Rio de Janeiro e Pós-Doutorado no Duke University Medical Center. Atualmente é professor adjunto da Universidade Federal do Rio Grande do Norte e coordenador do Programa Escolas Acadêmicas.",
         company: "Don't worry, be happy.",
 
@@ -109,7 +109,7 @@ module.exports = {
       },
       {
         name: "Profº Me. Ivanilson França Vieira Júnior, Lucas Pereira Wanderley Oliveira e Arthur Andrade Bezerra",
-        photo: "themes/yellow-swan/img/Ivanilson.jpg",
+        photo: "themes/yellow-swan/img/arduino.jpg",
         bio: "Lucas Pereira Wanderley Oliveira é graduando em Ciências e Tecnologia, trabalha no Laboratório de Automação e Robótica no projeto de um veículo autônomo não tripulado, na área de controle. Cinco anos de experiência com Arduino e dois anos de Raspberry. Muito interesse em automação em geral e quadricópteros. Arthur Andrade, Trabalha no Laboratório de Automação e Robótica da UFRN, atua no projeto da Plataforma Imersiva Multidimensional, mini hexapod project (anterior) com conhecimento em Microcontroladores, programação, eletrônica, gambiarras e um pouco te antenas. Tem interesse na area de Telecomunicações",
         company: "Don't worry, be happy.",
 
@@ -185,7 +185,7 @@ module.exports = {
       },
       {
         name: "Potilive e Pyladies",
-        photo: "themes/yellow-swan/img/pypoti.png",
+        photo: "themes/yellow-swan/img/arduino.jpg",
         bio: "Potilivre é um Grupo de Usuários de Software Livre atuante no estado do Rio Grande do Norte, fundado em 2013. Somos uma organização independente, composta por voluntários, para o apoio à filosofia e o uso do Software Livre. Sua missão é servir como principal ponto de integração entre as comunidades de Software Livre do nosso Estado, oferecendo uma estrutura simples e eficiente para o direcionamento e a organização dos esforços colaborativos. Pyladies é um grupo internacional, com foco em ajudar mais mulheres a tornarem-se participantes ativas e líderes de comunidades Python de código aberto. Sua missão é promover, educar e impulsionar a existência de uma comunidade Python diversificada através de sensibilização, educação, conferências, eventos e encontros sociais. Nosso objetivo não é segregar, mas sermos um meio de integrar as mulheres a programação.",
         company: "Don't worry, be happy.",
 
@@ -227,7 +227,7 @@ module.exports = {
       },
       {
         name: "Tiago Hérique Silva de Almeida e Eugênio Pacelly Brandão Araújo",
-        photo: "themes/yellow-swan/img/Eugenio.jpg",
+        photo: "themes/yellow-swan/img/arduino.jpg",
         bio: "Tiago Hérique Silva de Almeida é graduando em Ciências e Tecnologia com ênfase em Eng. Mecatrônica na UFRN, é o fundador do Grupo Interdisciplinar de Mecatrônica (GIM) da UFRN. Tem experiência na área de Robótica, Mecatrônica e Automação. Eugênio Pacelly Brandão Araújo é graduando em Ciências e Tecnologia e atualmente é voluntário no projeto Nvant e também é um dos projetista da plataforma de simulação de sistemas embarcados em um projeto da Universidade Federal do Rio Grande do Norte.",
         company: "Don't worry, be happy.",
 
