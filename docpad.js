@@ -128,7 +128,7 @@ module.exports = {
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Projetando com Arduino - dos Drones à Domótica",	
+   		  name: "Arduino e medições elétricas: Como fazer suas próprias medições.",	
           local: "Anfiteatro F",
           palestrante: "Tiago Tobias Freitas",
           time: "10h30 às 11h00",
@@ -204,7 +204,7 @@ module.exports = {
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Projetando com arduino: Dos drones à domática",	
+   		  name: "Projetando com arduino: Dos drones à domótica",	
           local: "Anfiteatro F",
           palestrante: "Profº Dr. João Moreno Vilas Boas de Souza Silva",
           time: "13h40 às 14h20",
