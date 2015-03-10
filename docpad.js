@@ -222,7 +222,7 @@ module.exports = {
           local: "Anfiteatro D",
           palestrante: "Julio Cesar Paulino de Melo (LAR)",
           time: "14h30 às 15h00",
-          description: "O Laboratório de Automação e Robótica da Escola de Ciências e Tecnologia (ECT) desenvolve diversos projetos de??? O que vem sendo feito no lab da ECT. #vant #plataforma entre outros projetos."
+          description: "O Laboratório de Automação e Robótica da Escola de Ciências e Tecnologia (ECT) desenvolve diversos projetos na área tecnológica utilizando o arduino."
         }
       },
       {
