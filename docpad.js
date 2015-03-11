@@ -124,15 +124,15 @@ module.exports = {
       {
         name: "Tiago Tobias Freitas",
         photo: "themes/yellow-swan/img/TiagoTobias.jpg",
-        bio: "Tiago Tobias Freitas é técnico em eletrônica.  Vem cursando Bacharelado em C&T e atuando na área de microoeletrônica desde 2003, onde desenvolve projetos voltados para automação industrial. Atuou na área acadêmica ministrando aulas em cursos técnicos e profissionalizante no SENAI entre 2006 e 2012,  onde elaborou projetos premiados e publicados em revista especializada. Atualmente é sócio proprietário da LUNALTAS, empresa incubada no INOVA METRÓPOLE, que tem foco em desenvolvimento de produtos de software e hardware com caráter inovador. Membro do grupo de pesquisa em eficiência energética da Escola de Ciências e Tecnologia - UFRN, onde desenvolve sistemas embarcados prototipados na plataforma Arduino, com intuito de aumentar a eficiência energética de instalações elétricas prediais e industriais.",
+        bio: "Tiago Tobias Freitas é técnico em eletrônica. Vem cursando Bacharelado em C&T e atuando na área de microoeletrônica desde 2003, onde desenvolve projetos voltados para automação industrial. Atuou na área acadêmica ministrando aulas em cursos técnicos e profissionalizante no SENAI entre 2006 e 2012,  onde elaborou projetos premiados e publicados em revista especializada. Atualmente é sócio proprietário da LUNALTAS, empresa incubada no INOVA METRÓPOLE, que tem foco em desenvolvimento de produtos de software e hardware com caráter inovador. Membro do grupo de pesquisa em eficiência energética da Escola de Ciências e Tecnologia - UFRN, onde desenvolve sistemas embarcados prototipados na plataforma Arduino, com intuito de aumentar a eficiência energética de instalações elétricas prediais e industriais.",
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Arduino e medições elétricas: Como fazer suas próprias medições.",	
+   		  name: "Medindo potência em corrente alternada com arduino.",	
           local: "Anfiteatro F",
           palestrante: "Tiago Tobias Freitas",
           time: "10h30 às 11h00",
-          description: "Com grande conhecimento em eletrotecnica e em desenvolvimento de projetos com sistemas embarcados, Tiago fala um pouco sobre o shield  do ADE758 e sua biblioteca para Arduino, e mostra como qualquer um pode fazer seu próprio medidor de energia inteligente."
+          description: "Medir pontência em corrente alternada não é algo muito simples, porém, Tiago fala um pouco sobre o shield  do ADE7753 e sua biblioteca para Arduino, e mostra como você pode fazér seu proprio medidor de energia inteligente."
         }
       },
       {
@@ -178,7 +178,7 @@ module.exports = {
       },
       {
         name: "Oficina C",
-      	local: "Sala 1",
+      	local: "Sala 2",
       	photo: "themes/yellow-swan/img/arduino.jpg",
       	time: "13h00 às 15h00",
       	description: "Intermediária"
@@ -190,7 +190,7 @@ module.exports = {
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Mesa-redonda: Eu faço programa e você?",	
+   		  name: "Mesa-redonda: Comunidade como agente de mudança",	
           local: "Anfiteatro D",
           palestrante: "Potilive e Pyladies",
           time: "13h35 às 14h15",
@@ -296,6 +296,11 @@ module.exports = {
         name: "Arduino.cc",
         logo: "themes/yellow-swan/img/arduino.jpg",
         url: "http://braziljs.org"
+      },
+      {
+        name: "RoboCore",
+        logo: "themes/yellow-swan/img/robocore.png",
+        url: "https://www.robocore.net"
       }
     ],
 
