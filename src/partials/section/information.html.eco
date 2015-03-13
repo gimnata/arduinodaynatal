@@ -2,6 +2,9 @@
 <h4>Todas as atividades são restritas aos inscritos no evento, portanto só será permitida a entrada de quem estiver com a pulseira de identificação adquirida no check-in do evento.</h4>
 <br>
 <ul>
+	<h4>As oficinas já estão esgotadas, mas a venda de rifas ainda está acontecendo na entrada da ECT para concorrer ao kit de Arduino da RoboCore no sorteio à ser realizado no final do evento.</h4>
+	<br>
+	<!--
 	<li><strong>Oficinas:</strong></li>
 	<br>
 	<p>No dia do evento, três oficinas serão ministradas pelo GIM em retribuição àqueles que colaboraram com a compra de rifas vendidas pelos representantes do grupo na UFRN. A regra é simples: Na compra de uma rifa, o participante terá acesso a uma oficina, enquanto houver vagas disponíveis. Serão disponibilizadas 60 vagas, sendo que metade das vagas será preenchida por alunos que trouxerem seu próprio notebook.<p>
@@ -17,7 +20,8 @@
 
 	<p><span><strong>Observações:</strong></span></p>
 	<p>1 - Se você possui um notebook com uma bateria que dure por muito tempo sem a necessidade de carga (algo em torno de três horas), a sua vaga na oficina terá mais facilidade de ser garantida, pois limitamos a capacidade da turma, principalmente, por questão de estrutura elétrica. É necessário, porém, que a sua inscrição seja feita antes do dia do evento.</p>
-	<p><span>2 - Mesmo que você não for participar da oficina, poderá comprar a rifa e concorrer ao kit para iniciante, consequentemente, ajudando o GIM nas despesas.</span></p>
+	<p><span>2 - Mesmo que você não for participar da oficina, poderá comprar a rifa e concorrer ao kit para iniciante, consequentemente, ajudando o GIM nas despesas.</span></p> -->
+
 	<li><strong>Palestras:</strong></li>
 	<br>
 	<p>As palestras ocorrerão paralelamente nos anfiteatros D e F. É possível conferir no cronograma o local e horário de cada uma delas. Basta escolher quais são de seu maior interesse e aproveitar. Diversas áreas e temas, desde drones à sistemas de saúde, serão abordados nas nossas palestras, com o intuito de abordar aplicações do arduino. Entretanto, este ano abrimos espaço para tratar de outros temas relevantes, tais como software livre e,  também, para outros grupos regionais cujo propósito é compartilhar conhecimento, seja em desenvolvimento software ou hardware.</p>

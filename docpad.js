@@ -212,17 +212,17 @@ module.exports = {
         }
       },
       {
-        name: "Julio Cesar Paulino de Melo (LAR)",
+        name: "Julio Cesar Paulino de Melo",
         photo: "themes/yellow-swan/img/JulioCesar.jpg",
         bio: "Julio Cesar Paulino de Melo é graduado em engenharia de computação, com ênfase em automação na Universidade Federal do Rio Grande do Norte. Possui mestrado em Engenharia Elétrica e Computação pela UFRN. Tem experiências na área de sistema de informação, ambientes vituais interativos, TV digital, Aplicações interativas para TV digital, sistemas embarcados e sistemas dinamico e estaticos em FPGA.",
         company: "Don't worry, be happy.",
 
         presentation: {
-   		  name: "Bem-vindo ao LAR  - Projetos acadêmicos baseados em Arduino.",	
+   		  name: "L.A.R. - Automação e Robótica com Arduino",	
           local: "Anfiteatro D",
-          palestrante: "Julio Cesar Paulino de Melo (LAR)",
+          palestrante: "Julio Cesar Paulino de Melo",
           time: "14h30 às 15h00",
-          description: "O Laboratório de Automação e Robótica da Escola de Ciências e Tecnologia (ECT) desenvolve diversos projetos na área tecnológica utilizando o arduino."
+          description: "O laboratório de automação e robótica (LAR) tem trabalhado nos últimos anos com vários projetos usando arduino em áreas variadas. Nesta palestra, conversaremos sobre o laboratório, sua organização, os projetos que utilizam arduino em seu escopo, além de perspectiva para futuros projetos."
         }
       },
       {
