@@ -79,7 +79,7 @@ module.exports = {
         company: "Don't worry, be happy.",
 
         presentation: {
-        name: "Palestra", 
+        name: "Como o arduino mudou a minha vida", 
           local: "Anfiteatro F",
           palestrante: "Profº Me. Ivanilson França Vieira Júnior",
           time: "9h00 às 9h35",
@@ -119,6 +119,20 @@ module.exports = {
           palestrante: "Profº Me. Ivanilson França Vieira Júnior, Lucas Pereira Wanderley Oliveira e Arthur Andrade Bezerra",
           time: "9h40 às 10h15",
           description: "Um bate-papo com hobbistas do aeremodelismo e quadricopteros sobre o processo de montagem de um VANT. O que é um VANT? Onde compra peças? Quais etapas seguir?"
+        }
+      },
+      {
+        name: "Marcos Vinícius Ramos da Silva e Clemenson da Costa Alves",
+        photo: "themes/yellow-swan/img/TiagoTobias.jpg",
+        bio: "Clemenson  possui formação no curso técnico de programador web pelo Metrópole Digital pela Universidade Federal do Rio Grande do Norte (UFRN) e atualmente está cursando o bacharelado em Ciências e Tecnologia na UFRN com ênfase em Engenharia Mecânica. Atuou como pesquisador na área de robótica educacional e atualmente é vice capitão na Equipe Car-Kará Baja SAE da UFRN.",
+        company: "Don't worry, be happy.",
+
+        presentation: {
+   		  name: "Aplicação do Arduino em um veículo BAJA SAE",	
+          local: "Anfiteatro F",
+          palestrante: "Marcos Vinícius Ramos da Silva e Clemenson da Costa Alves",
+          time: "10h00 às 10h40",
+          description: "O objetivo é o desenvolvimento de um sistema embarcado de modo que contribua para a análise e desenvolvimento de um veículo experimental de categoria Off - Road voltado para o mercado de entusiastas que desejam um veículo barato, seguro, de fácil manutenção e transporte, divertido de dirigir e que vença diversos tipos deterreno."
         }
       },
       {
